@@ -5,13 +5,13 @@ using UnityEngine;
 public class CharacterController : MonoBehaviour
 {
     [SerializeField] private float mSpeed;
-    void Start()
+    private void Start()
     {
         
     }
 
    
-    void Update()
+    private void Update()
     {
         if (Input.GetKey(KeyCode.W))
         {
