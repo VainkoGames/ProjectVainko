@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145797241707",
+    "project_id": "tapholddashrepeat",
+    "storage_bucket": "tapholddashrepeat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145797241707:android:ad2c3f94259c6fbfeeca2e",
+        "android_client_info": {
+          "package_name": "com.Vainko.TapHoldDashRepeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145797241707-70itt1unh7las5922qtnvf828f7i3rht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCICfZvuuv_jPqMcsK7Eyyk-oCFqV8TkCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145797241707-70itt1unh7las5922qtnvf828f7i3rht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
